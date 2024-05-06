@@ -1,1 +1,0 @@
-wes-script.nf

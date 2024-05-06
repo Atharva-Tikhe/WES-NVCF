@@ -1,1 +1,1 @@
-variant_calling.nf
+/media/nivedita/Data_Disk/WES_DA/variant_calling.nf
